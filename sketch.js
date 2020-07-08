@@ -67,7 +67,7 @@ function preload() {
 
 function setup() {
  imageMode(CENTER);
- createCanvas(1000, 1000);
+ createCanvas(800, 800);
  w1=new Weapon1bullet();
  h1=new playerHud();
  d1=new DeveloperHoneyTip();
